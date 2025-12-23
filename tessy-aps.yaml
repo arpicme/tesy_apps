@@ -1,0 +1,9 @@
+payload:
+ - PROCESS-NAME,TDownloadManager2.exe
+ - PROCESS-NAME,TeamViewer_Service.exe
+ - PROCESS-NAME,TecneAggiorna.exe
+ - PROCESS-NAME,TeamViewerQS.exe
+ - PROCESS-NAME,TesyQueryAnalyzer.exe
+ - PROCESS-NAME,TAssistant.exe
+ - PROCESS-NAME,TxeApp.exe
+ - PROCESS-NAME,TxeApp_x64.exe
