@@ -7,3 +7,4 @@ payload:
  - PROCESS-NAME,TAssistant.exe
  - PROCESS-NAME,TxeApp.exe
  - PROCESS-NAME,TxeApp_x64.exe
+ - PROCESS-NAME,TGeo.exe
